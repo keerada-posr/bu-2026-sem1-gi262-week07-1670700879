@@ -1341,7 +1341,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2975489352503432100, guid: 4c033ef69eb269849bab9de975c465ed, type: 3}
       propertyPath: m_Name
-      value: Player
+      value: Keerada
       objectReference: {fileID: 0}
     - target: {fileID: 4314285243807817638, guid: 4c033ef69eb269849bab9de975c465ed, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1385,7 +1385,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5615206909734415387, guid: 4c033ef69eb269849bab9de975c465ed, type: 3}
       propertyPath: Name
-      value: Boy
+      value: Keerada
+      objectReference: {fileID: 0}
+    - target: {fileID: 5615206909734415387, guid: 4c033ef69eb269849bab9de975c465ed, type: 3}
+      propertyPath: energy
+      value: 999
+      objectReference: {fileID: 0}
+    - target: {fileID: 5615206909734415387, guid: 4c033ef69eb269849bab9de975c465ed, type: 3}
+      propertyPath: maxEnergy
+      value: 999
+      objectReference: {fileID: 0}
+    - target: {fileID: 5615206909734415387, guid: 4c033ef69eb269849bab9de975c465ed, type: 3}
+      propertyPath: AttackPoint
+      value: 999
       objectReference: {fileID: 0}
     - target: {fileID: 5615206909734415387, guid: 4c033ef69eb269849bab9de975c465ed, type: 3}
       propertyPath: mapGenerator
